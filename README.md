@@ -71,7 +71,7 @@ To run this application locally, you need to have Python and the necessary libra
 3. **Install Required Libraries**:
 
     ```bash
-    pip install streamlit
+    pip install -r requirements.txt
     ```
 
 4. **Run the Streamlit Application**:
